@@ -1,6 +1,8 @@
 name: Update README
 
 on:
+  issue_comment:
+      types: [created]
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
