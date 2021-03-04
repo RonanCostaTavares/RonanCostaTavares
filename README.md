@@ -26,6 +26,8 @@
 ### 📕 Últimas postagens de projetos
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/RonanCostaTavares/ProjetoTeste/pull/1) in [RonanCostaTavares/ProjetoTeste](https://github.com/RonanCostaTavares/ProjetoTeste)
+2. 💪 Opened PR [#1](https://github.com/RonanCostaTavares/ProjetoTeste/pull/1) in [RonanCostaTavares/ProjetoTeste](https://github.com/RonanCostaTavares/ProjetoTeste)
 <!--END_SECTION:activity-->
 
 [instagram]: https://www.instagram.com/costtaRonan/
