@@ -26,6 +26,7 @@
 ### 📕 Últimas postagens de projetos
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [instagram]: https://www.instagram.com/costtaRonan/
 [linkedin]: https://www.linkedin.com/in/ronan-costa-812b86121
